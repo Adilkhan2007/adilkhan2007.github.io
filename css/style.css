@@ -1,4 +1,4 @@
-/* css/style.css — 100% рабочий, проверено на твоей структуре */
+
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body {
@@ -86,5 +86,6 @@ button {
 
 
 footer { text-align: center; padding: 50px; background: #111; }
+
 
 
