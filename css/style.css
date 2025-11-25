@@ -3,7 +3,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: red;
+    background: black;
     color: white;
     line-height: 1.7;
 }
@@ -86,4 +86,5 @@ button {
 
 
 footer { text-align: center; padding: 50px; background: #111; }
+
 
