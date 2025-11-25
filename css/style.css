@@ -3,8 +3,8 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: #000;
-    color: #fff;
+    background: black;
+    color: white;
     line-height: 1.7;
 }
 
@@ -26,7 +26,7 @@ header {
 }
 
 h1 { font-size: 3.8rem; color: #0f9; margin: 15px 0; }
-h1 small { font-size: 2rem; color: #aaa; }
+h1 small { font-size: 2rem; color: silver; }
 .tagline { font-size: 1.5rem; color: #0f9; margin: 20px 0; }
 
 nav a {
@@ -40,7 +40,7 @@ nav a {
     display: inline-block;
 }
 
-nav a:hover { background: #0f9; color: #000; }
+nav a:hover { background: #0f9; color: black; }
 
 main { max-width: 1100px; margin: 50px auto; padding: 0 20px; }
 
@@ -59,7 +59,7 @@ h2, h3 { color: #0f9; text-align: center; margin-bottom: 30px; }
     float: left;
     margin: 1%;
     padding: 25px;
-    background: #000;
+    background: black`;
     border-left: 6px solid #0f9;
     border-radius: 12px;
 }
@@ -83,5 +83,6 @@ button {
     font-size: 1.3rem;
     cursor: pointer;
 }
+
 
 footer { text-align: center; padding: 50px; background: #111; }
